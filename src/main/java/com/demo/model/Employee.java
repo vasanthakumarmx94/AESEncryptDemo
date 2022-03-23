@@ -33,5 +33,7 @@ public class Employee {
 	//comment new
 	private String address;
 	
+	private String location;
+	
 
 }
